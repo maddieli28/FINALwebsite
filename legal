@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="legal.png" alt="heading" class="heading">
+        </header>
+
+        <article>
+            <p>As the "One Country, Two Systems" policy approaches its designated end in 2047, Hong Kong is poised to experience profound changes in its political and legal landscapes. 
+
+            </p>
+            <p>Post-2047, Hong Kong's political structure could undergo radical transformation. One of the most significant potential changes could be the reformation of the Legislative Council and other key governing bodies. Currently, the Legislative Council includes a mix of directly elected seats and functional constituencies that represent various sectors of society. However, there might be a move towards a system that more closely mirrors mainland China's political framework, possibly reducing the proportion of directly elected seats, or altering the electoral processes to ensure that candidates are more aligned with Beijing's policies. This could lead to a consolidation of power within pro-Beijing factions, diminishing the influence of local pro-democracy groups and reducing the legislative pushback against initiatives from the central government.
+            </p>
+            <p>The legal system in Hong Kong, based on British common law, stands in stark contrast to the civil law system used in mainland China. This system has been a cornerstone of Hong Kong's autonomy, underpinning its status as a global financial center. However, as the "One Country, Two Systems" framework is phased out, modifications to this legal framework are likely. These changes could involve the introduction of laws that are more in line with the mainland's legal system, potentially impacting everything from business operations to civil liberties.
+                A critical concern here is the potential erosion of judicial independence. If Hong Kong's courts become more influenced by Beijing, there could be a shift in how laws are interpreted and applied. This could affect the enforcement of contracts, property rights, and even personal freedoms, aligning more closely with the legal environment in mainland China, where the judiciary does not operate independently of the government. Such changes could undermine the confidence of international investors and affect Hong Kong's appeal as a safe and stable place for global business.
+                The dismantling of "One Country, Two Systems" and the subsequent political and legal realignments could have broader socio-political implications. Public confidence in the local government's ability to represent and advocate for Hong Kong's unique needs might wane, potentially leading to increased civil unrest or emigration among those seeking a more autonomous and democratic governance structure. Additionally, the international community's perception of Hong Kong could shift, potentially impacting its economic relationships and international agreements.
+
+            </p>
+        </article>
+    </div>
+</body>
+</html>
